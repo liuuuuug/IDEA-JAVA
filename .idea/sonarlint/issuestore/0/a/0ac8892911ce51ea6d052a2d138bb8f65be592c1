@@ -1,0 +1,7 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸»¡½8ô´€–˜.
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅØôæøÿÿÿÿ8¦à‡–˜.
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¨á²8‡ìî•˜.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Áð¤úÿÿÿÿ8ò£ë•˜.
+y
+java:S1488 "\Immediately return this expression instead of assigning it to the temporary variable "temp".(Ë©Ÿ®8¢Æ—–˜.

@@ -1,0 +1,7 @@
+
+^
+java:S1226"AIntroduce a new variable instead of reusing the parameter "str1".(–üÅÉ8û£ñ‹™.
+F
+java:S1481")Remove this unused "str1" local variable.(„÷¢8‚¨ğ‹™.
+U
+java:S1854"8Remove this useless assignment to local variable "str1".(–üÅÉ8û£ñ‹™.
